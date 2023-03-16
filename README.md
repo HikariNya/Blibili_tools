@@ -1,2 +1,2 @@
 # Blibili_tools
-Nonebot2 插件，实现通过 UID 查询用户和直播间信息
+基于Python 实现的 Nonebot2 插件，通过 Blibili UID 查询指定用户帐号详情和直播间信息。
